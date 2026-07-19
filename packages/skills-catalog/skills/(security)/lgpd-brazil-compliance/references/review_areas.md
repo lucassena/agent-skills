@@ -265,15 +265,50 @@ Always cite the underlying official Brazilian source (LGPD article or ANPD instr
 
 ## 12. RIPD and High-Risk Processing
 
-**What to check** (LGPD Art. 38; ANPD RIPD guidance)
+**What to check** (LGPD Art. 38; ANPD RIPD Questions and Answers)
 
-- Whether processing is likely high risk: sensitive data; large-scale processing; children/adolescents; significant automated decisions; public-area monitoring; other high-risk contexts.
-- Whether a RIPD has been considered, produced, or is recommended.
+- Determine whether the ANPD has specifically required the controller to prepare or submit a RIPD.
+- Assess whether the processing may create high risk to LGPD principles, civil liberties, or the fundamental rights of data subjects.
+- Until a specific RIPD regulation establishes different criteria, use the following ANPD parameter when appropriate.
+
+**ANPD high-risk parameter**
+
+The parameter is met when the processing has, in the concrete case, at least:
+
+1. **One general criterion**
+   - processing on a large scale; or
+   - processing that may significantly affect data subjects' interests or fundamental rights.
+2. **One specific criterion**
+   - use of emerging or innovative technologies;
+   - surveillance or control of publicly accessible areas;
+   - decisions based solely on automated processing; or
+   - processing of sensitive personal data or personal data of children, adolescents, or elderly persons.
+
+Treat these criteria as cumulative: at least one general criterion plus at least one specific criterion.
+
+The criteria are not exhaustive. Processing may still present high risk in other circumstances when supported by a documented, case-specific assessment. Conversely, the presence of a specific criterion alone — such as sensitive personal data — does not automatically satisfy this parameter.
+
+- Consider the nature, scope, context, purposes, number of data subjects, data volume, duration, potential harms, safeguards, and interaction among risk factors.
+- Check whether the controller documented why a RIPD was or was not prepared.
+- If the available evidence does not support assessment of both general and specific criteria, classify the conclusion as `unclear`.
+
+**Strong evidence**: A documented assessment of the general and specific criteria, contextual risks, potential harms, safeguards, and the resulting decision to prepare or not prepare a RIPD.
+**Weak evidence**: A checklist that labels processing as high risk solely because it involves sensitive data, children, or automated processing, without assessing scale or significant effects.
+**Missing evidence**: Processing scale, affected data subjects, potential effects on rights, technologies used, safeguards, or the controller's documented risk assessment.
+
+**Classification guidance**
+
+- Use `ANPD guidance` or `context-dependent` when applying the ANPD high-risk parameter.
+- Do not classify failure to meet this parameter as `non-compliant` by itself.
+- Use `legal requirement` or `ANPD regulation` only when a binding provision or specific ANPD determination clearly applies.
 
 **False assumptions to avoid**
 
-- That RIPD is mandatory for every product.
-- That RIPD is purely documentation — it must reflect real risk analysis.
+- That a RIPD is mandatory for every product.
+- That sensitive data, children, large-scale processing, or automated decisions independently make a RIPD mandatory.
+- That meeting the ANPD parameter automatically proves a legal violation when no RIPD exists.
+- That not meeting the parameter proves the processing is low risk.
+- That a RIPD is merely documentation rather than a risk-assessment process connected to real safeguards.
 
 ---
 

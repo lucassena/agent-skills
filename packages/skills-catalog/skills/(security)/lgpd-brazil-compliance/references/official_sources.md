@@ -32,7 +32,7 @@ For each entry below, capture in your finding citation, when possible:
 
 - **Type**: Federal law (binding).
 - **Publisher**: Presidência da República / Casa Civil (Planalto).
-- **Official URL**: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm
+- **Official URL**: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
 - **Covers**: Definitions; principles; legal bases; sensitive personal data; data subject rights; processing by the public sector; international transfers; controlador/operador; encarregado; security and incidents; sanctions; ANPD.
 - **When to consult**: Any mandatory legal conclusion. Always the first source for any LGPD claim.
 - **Key articles often relevant**:
@@ -129,13 +129,13 @@ For each entry below, capture in your finding citation, when possible:
 
 ---
 
-### ANPD Guidance on RIPD (Relatório de Impacto à Proteção de Dados Pessoais)
+### ANPD Questions and Answers on RIPD (Relatório de Impacto à Proteção de Dados Pessoais)
 
-- **Type**: ANPD official guidance (and references in LGPD Art. 38).
+- **Type**: ANPD official questions and answers; non-binding interpretive material.
 - **Official URL**: https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-protecao-de-dados-pessoais-ripd
-- **Covers**: When a RIPD is appropriate, what it should contain, risk-based approach to high-risk processing.
-- **When to consult**: Sensitive data, large-scale processing, children/adolescents, significant automated decisions, public-area monitoring, or other high-risk processing contexts.
-- **Do not assume**: That every application must produce a RIPD.
+- **Covers**: When a RIPD is appropriate, what it should contain, risk-based assessment, and the current reference parameter for identifying high-risk processing while no specific RIPD regulation establishes different criteria.
+- **When to consult**: Assessing whether processing may present high risk, whether a RIPD should be considered, or how to structure and document a RIPD.
+- **Do not use for**: Claiming that a RIPD is automatically mandatory whenever a single risk factor exists.
 
 ---
 
